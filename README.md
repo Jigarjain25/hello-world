@@ -3,7 +3,7 @@ Hi humans!
 
 Jigar here, 
 
-programming Quotes
+<strong><h3>programming Quotes</h3></strong>
 
 "We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins." - Ellen Ullman
 
